@@ -2,15 +2,15 @@
 Highlights the Profiles of Interns trained under the Eneza program. It highlights their educational backgrounds, skills, projects, and career aspirations. The program aims to equip interns with practical knowledge in data science.
 
 # Cohort Two:
+## VANESSA WANGARI
 
-##VANESSA WANGARI
-###This is me!
+### This is me!
+![Passporttttt](https://github.com/user-attachments/assets/baa945cb-27c6-4448-a457-424987044796)
 
+### Educational Background
+I am a BSc. **Epidemiology and Biostatistics** degree holder.
 
-###Educational Background
-I am a BSc.** Epidemiology and Biostatistics** degree holder.
-
-###Skills
+### Skills
 - Competencies in data analysis tools such as Python, R, SPSS
 - Data analysis & visualization 
 - Infectious disease modeling
@@ -29,8 +29,8 @@ I am a BSc.** Epidemiology and Biostatistics** degree holder.
 - Community and grassroots engagement
 
 
-###Projects
+### Projects
 1. **Prevalence of Postpartum Deepression among mothers and healthcare facility preparedness in adressing PPD in RUNH in Kasarani constituency**
 
-###Career Aspirations
+### Career Aspirations
 To become a data-driven epidemiologist, leading projects in global health, AI for disease prediction, and public health policy development.

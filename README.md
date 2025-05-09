@@ -7,7 +7,7 @@ Hello! I'm Makena!
 I'm an analytical and meticulous statistics graduate with a strong foundation in data science,analytics, and statistical modeling.  
 Skilled in uncovering insights from data with precision to support evidence-based decision-making.
 
-![Prissy's Photo](https://github.com/MakenaPrissy/Eneza-Interns-Profiles/blob/main/Prissy%20Makena-jpg.jpeg)
+<img src="https://github.com/MakenaPrissy/Eneza-Interns-Profiles/blob/main/Prissy%20Makena-jpg.jpeg" alt="Prissy's Photo" width="200"/>
 
 **Educational Background**:  
 Bachelor of Science in Statistics, (Sept 2020 - April 2024)  

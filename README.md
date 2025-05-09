@@ -4,7 +4,7 @@
 Highlights the Profiles of Interns trained under the Eneza program. It highlights their educational backgrounds, skills, projects, and career aspirations. The program aims to equip interns with practical knowledge in data science.
 
 # Cohort Two:
-##Sally Karimi Kinyua
+## Sally Karimi Kinyua
  Educational Background:
 Undergraduate Studies-Jomo Kenyatta University of Agriculture and Technology
 Bachelor of Science in Applied Bioengineering-2019-2024
@@ -33,3 +33,4 @@ Career Aspirations
 To pursue a masters degree in Applied Epideomology , a PHd in Digital Health and Health Informatics. 
 
 
+![ICIPE PASSPORT PHOTO](https://github.com/user-attachments/assets/94a0889a-dbe9-4e7d-a901-e25e16dab788)

@@ -4,7 +4,7 @@ Highlights the Profiles of Interns trained under the Eneza program. It highlight
 # Cohort Two:
 DORCAS CHEBET.
 Hello!I’m a Medical Biotechnologist passionate about applying bioinformatics and data science to solve real-world problems in public health
-![DORCAS](images/Dorcas-photo.jpg.jpg)
+![DORCAS](images/Dorcas-photo.jpg)
 
 Educational Background:
 Bachelor of Science in Medical Biotechnology from Kirinyaga university

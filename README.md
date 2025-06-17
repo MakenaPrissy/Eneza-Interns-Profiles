@@ -4,51 +4,35 @@ Highlights the Profiles of Interns trained under the Eneza program. It highlight
 
 # Cohort Two:
 
-## Geofrey Kamunge Kairu
+## Sally Karimi Kinyua
 
-![Geofrey Kamunge Kairu](images/Geofrey_Profile_pic.png)
+### Educational Background:
+- **Undergraduate Studies**  
+  Jomo Kenyatta University of Agriculture and Technology  
+  Bachelor of Science in Applied Bioengineering (2019-2024)
 
-### EDUCATION BACKGROUND
-- **BSc in Medical Biotechnology**  
-  Kirinyaga University  
-  Year 2020-2024
+- **Certification**  
+  University of Washington  
+  Monitoring and Evaluation (January 2025 - March 2025)
 
-- **Kenya Certificate of Secondary Education (KCSE)**  
-  Thome Boys Secondary School  
-  Year 2016-2019
+### Work Experience:
+- **International Centre of Insect Physiology and Ecology**  
+  Research Intern (February 2025)  
+  - Trained on Data Science through the Eneza Data Science program.
 
-- **Kenya Certificate of Primary Education (KCPE)**  
-  Sweetwaters Primary School  
-  Year 2008-2015
+- **Shamiri Institute**  
+  Research Fellow (May 2024 - July 2024)  
+  - Worked on mental health interventions in Kajiado County among high school students.
 
-### SKILLS
+- **Kenya Medical Research Institute**  
+  Intern (January 2023 - April 2023)  
+  - Gained skills in PCR, DNA extraction, good laboratory practices, and laboratory techniques.
 
-**Technical Skills**:
-- Laboratory Techniques Proficiency: Microscopy, Biochemistry, Histology, Hematology, Immunology
-- Laboratory Instrumentation: Microscopes, Centrifuges, Spectrophotometers, Micropipettes, Biosafety cabinets, CO2 incubators, Freezers, Thermal cyclers
-- Molecular Biology: PCR and Gel Electrophoresis, DNA analysis, DNA/RNA Isolation and Purification, DNA manipulation
-- Cell Culture: Maintenance of cell lines, cell transfection, cell viability assays, cytotoxicity testing
-- Immunological Assays: ELISA, Flow cytometry, Immunohistochemistry, Immunoprecipitation
-- Bioanalytical Techniques: Western Blotting, Chromatography, Mass spectrometry
-- Microbial Biology: Microbial culture and Identification, Biochemical testing, Staining Techniques, Antimicrobial Susceptibility testing
-- Bioprocessing and Fermentation: Biomanufacturing, Process development, Upstream process, Downstream process
-- Programming Skills: Bioinformatics, Python, R, Git/Github, Bash/Linux shell
+### Projects:
+- **Visceral Leishmaniasis GIS Mapping**: Kenya, Uganda, and Ethiopia.  
+- **Mental Health Interventions**: Kajiado County.  
+- **Malaria Surveillance**: Effective interventions in Kenya.
 
-**Soft Skills**:
-- Excellent Communication Skills
-- Analytical Thinker and Problem Solver
-- Good Interpersonal Skills and Team Player
-- Result Oriented and Adaptive
-- Good Time Management and Organizational Skills
-
-### PROJECTS
-- **The Impact of Agricultural Waste Biofertilizers on Crop Yield in Kirinyaga County, Kenya**  
-  Year: September 2023–May 2024  
-  - Investigated the effectiveness of biofertilizers produced from agricultural waste in enhancing crop yield.
-  - Analyzed data on crop yield following biofertilizer application and compared with chemical fertilizer.
-  - Authored a research report outlining the findings and recommendations for future research.
-
-### CAREER ASPIRATIONS
-- Pursue a Master's in Data Science to leverage large biological datasets for improved disease diagnostics, drug discovery, and personalized medicine.
-- Specialize in Bioinformatics to apply computational tools and statistical methods to analyze genomic, proteomic, and other biological data.
-
+### Career Aspirations:
+- Pursue a Master’s degree in Applied Epidemiology.  
+- Undertake a Ph.D. in Digital Health and Health Informatics.

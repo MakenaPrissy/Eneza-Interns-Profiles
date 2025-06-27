@@ -33,11 +33,115 @@ I am a BSc. **Epidemiology and Biostatistics** degree holder.
 1. **Prevalence of Postpartum Depression among Mothers and Healthcare Facility Preparedness in Addressing PPD in RUNH in Kasarani Constituency**
 
 ### Career Aspirations
-To become a data-driven epidemiologist, leading projects in global health, AI for disease prediction, and public health policy development.
+To become a data-driven epidemiologist, leading projects in global health, AI for disease prediction, and public health policy developmen
 
----
+## Geofrey Kamunge Kairu
 
-## Prissy Makena
+![Geofrey Kamunge Kairu](images/Geofrey_Profile_pic.png)
+
+### EDUCATION BACKGROUND
+- **BSc in Medical Biotechnology**
+  Kirinyaga University
+  Year 2020-2024
+
+- **Kenya Certificate of Secondary Education (KCSE)**
+  Thome Boys Secondary School
+  Year 2016-2019
+
+- **Kenya Certificate of Primary Education (KCPE)**
+  Sweetwaters Primary School
+  Year 2008-2015
+
+### SKILLS
+
+**Technical Skills**:
+- Laboratory Techniques Proficiency: Microscopy, Biochemistry, Histology, Hematology, Immunology
+- Laboratory Instrumentation: Microscopes, Centrifuges, Spectrophotometers, Micropipettes, Biosafety cabinets, CO2 incubators, Freezers, Thermal cyclers
+- Molecular Biology: PCR and Gel Electrophoresis, DNA analysis, DNA/RNA Isolation and Purification, DNA manipulation
+- Cell Culture: Maintenance of cell lines, cell transfection, cell viability assays, cytotoxicity testing
+- Immunological Assays: ELISA, Flow cytometry, Immunohistochemistry, Immunoprecipitation
+- Bioanalytical Techniques: Western Blotting, Chromatography, Mass spectrometry
+- Microbial Biology: Microbial culture and Identification, Biochemical testing, Staining Techniques, Antimicrobial Susceptibility testing
+- Bioprocessing and Fermentation: Biomanufacturing, Process development, Upstream process, Downstream process
+- Programming Skills: Bioinformatics, Python, R, Git/Github, Bash/Linux shell
+
+**Soft Skills**:
+- Excellent Communication Skills
+- Analytical Thinker and Problem Solver
+- Good Interpersonal Skills and Team Player
+- Result Oriented and Adaptive
+- Good Time Management and Organizational Skills
+
+### PROJECTS
+- **The Impact of Agricultural Waste Biofertilizers on Crop Yield in Kirinyaga County, Kenya**
+  Year: September 2023–May 2024
+  - Investigated the effectiveness of biofertilizers produced from agricultural waste in enhancing crop yield.
+  - Analyzed data on crop yield following biofertilizer application and compared with chemical fertilizer.
+  - Authored a research report outlining the findings and recommendations for future research.
+
+### CAREER ASPIRATIONS
+- Pursue a Master's in Data Science to leverage large biological datasets for improved disease diagnostics, drug discovery, and personalized medicine.
+- Specialize in Bioinformatics to apply computational tools and statistical methods to analyze genomic, proteomic, and other biological data.
+
+
+# DORCAS CHEBET.
+
+![DORCAS](images/Dorcas-photo.jpg)
+
+Hello! I’m a Medical Biotechnologist passionate about applying bioinformatics and data science to solve real-world problems in public health
+
+Educational Background:
+Bachelor of Science in Medical Biotechnology from Kirinyaga university
+
+Skills:
+- Molecular Biology
+- Python (Pandas, NumPy, SciKit-Learn)
+- Data Analysis & Visualization (R, Excel)
+- Git & GitHub
+- Bioinformatics (BLAST, MEGA)
+
+Projects:
+- Predicting Disease Risk with Machine Learning
+- DNA Sequence Analyzer in Python
+- CRISPR Gene Targeting Simulations
+
+Career Aspirations:
+I aim to work at the intersection of biotechnology and data science to develop impactful healthcare innovations using AI and bioinformatics.
+
+# Sally Karimi Kinyua
+
+### Educational Background:
+- **Undergraduate Studies**  
+  Jomo Kenyatta University of Agriculture and Technology  
+  Bachelor of Science in Applied Bioengineering (2019-2024)
+
+- **Certification**  
+  University of Washington  
+  Monitoring and Evaluation (January 2025 - March 2025)
+
+### Work Experience:
+- **International Centre of Insect Physiology and Ecology**  
+  Research Intern (February 2025)  
+  - Trained on Data Science through the Eneza Data Science program.
+
+- **Shamiri Institute**  
+  Research Fellow (May 2024 - July 2024)  
+  - Worked on mental health interventions in Kajiado County among high school students.
+
+- **Kenya Medical Research Institute**  
+  Intern (January 2023 - April 2023)  
+  - Gained skills in PCR, DNA extraction, good laboratory practices, and laboratory techniques.
+
+### Projects:
+- **Visceral Leishmaniasis GIS Mapping**: Kenya, Uganda, and Ethiopia.  
+- **Mental Health Interventions**: Kajiado County.  
+- **Malaria Surveillance**: Effective interventions in Kenya.
+
+### Career Aspirations:
+- Pursue a Master’s degree in Applied Epidemiology/Public Health.  
+- Undertake a Ph.D. in Digital Health and Health Informatics.
+
+# Prissy Makena
 Hello! I'm Makena!  
 I'm an analytical and meticulous statistics graduate with a strong foundation in data science,analytics, and statistical modeling.  
 Skilled in uncovering insights from data with precision to support evidence-based decision-making.
@@ -87,3 +191,4 @@ Utilized Power BI’s data transformation tools for data cleaning and integratio
 
 **Career Aspirations**:  
 To apply data science in the health sector to drive evidence-based policy changes that improve lives across Africa.
+

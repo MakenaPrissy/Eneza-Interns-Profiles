@@ -35,11 +35,6 @@ I am a BSc. **Epidemiology and Biostatistics** degree holder.
 ### Career Aspirations
 To become a data-driven epidemiologist, leading projects in global health, AI for disease prediction, and public health policy development.
 
-# Eneza-Interns-Profiles
-Highlights the Profiles of Interns trained under the Eneza program. It highlights their educational backgrounds, skills, projects, and career aspirations. The program aims to equip interns with practical knowledge in data science.
-
----
-# Cohort Two:
 DORCAS CHEBET.
 
 ![DORCAS](images/Dorcas-photo.jpg)

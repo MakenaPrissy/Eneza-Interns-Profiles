@@ -35,3 +35,27 @@ I am a BSc. **Epidemiology and Biostatistics** degree holder.
 ### Career Aspirations
 To become a data-driven epidemiologist, leading projects in global health, AI for disease prediction, and public health policy development.
 
+DORCAS CHEBET.
+
+![DORCAS](images/Dorcas-photo.jpg)
+
+Hello! I’m a Medical Biotechnologist passionate about applying bioinformatics and data science to solve real-world problems in public health
+
+Educational Background:
+Bachelor of Science in Medical Biotechnology from Kirinyaga university
+
+Skills:
+- Molecular Biology
+- Python (Pandas, NumPy, SciKit-Learn)
+- Data Analysis & Visualization (R, Excel)
+- Git & GitHub
+- Bioinformatics (BLAST, MEGA)
+
+Projects:
+- Predicting Disease Risk with Machine Learning
+- DNA Sequence Analyzer in Python
+- CRISPR Gene Targeting Simulations
+
+Career Aspirations:
+I aim to work at the intersection of biotechnology and data science to develop impactful healthcare innovations using AI and bioinformatics.
+
